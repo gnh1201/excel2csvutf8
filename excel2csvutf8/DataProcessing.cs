@@ -37,7 +37,7 @@ namespace excel2csvutf8
                     codepage = 51949; // euc-kr, EUC Korean
                     break;
                 case "kr949":
-                    codepage = 51949; // ks_c_5601-1987, ANSI/OEM Korean (Unified Hangul Code)
+                    codepage = 949; // ks_c_5601-1987, ANSI/OEM Korean (Unisfied Hangul Code)
                     break;
                 case "jp":
                     codepage = 20932; // euc-jp, Japanese (JIS 0208-1990 and 0212-1990)
