@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\bin\Debug\excel2csvutf8.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\bin\Debug\excel2csvutf8.exe
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\bin\Debug\excel2csvutf8.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\excel2csvutf8.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\excel2csvutf8_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\excel2csvutf8_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\excel2csvutf8.g.resources
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\excel2csvutf8.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\excel2csvutf8.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\excel2csvutf8.exe
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\obj\Debug\excel2csvutf8.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\bin\Debug\ExcelDataReader.dll
+c:\users\administrator\documents\visual studio 2015\Projects\excel2csvutf8\excel2csvutf8\bin\Debug\ExcelDataReader.xml

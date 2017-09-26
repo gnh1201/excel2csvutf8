@@ -1,0 +1,22 @@
+﻿<Window x:Class="excel2csvutf8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:excel2csvutf8"
+        mc:Ignorable="d"
+        Title="Excel2CSVUTF8" Height="451" Width="394">
+    <Grid Margin="0,0,2,5">
+        <Label x:Name="label" Content="Choose your MS Excel file(*.xls, *.xlsx): " HorizontalAlignment="Left" Margin="35,64,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtOldpath" HorizontalAlignment="Left" Height="56" Margin="35,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="310"/>
+        <Button x:Name="btnBrowse1" Content="Browse" HorizontalAlignment="Left" Height="26" Margin="270,156,0,0" VerticalAlignment="Top" Width="75" Click="btnBrowse1_Click"/>
+        <Label x:Name="label1" Content="Save converted file to (*.csv):" HorizontalAlignment="Left" Margin="35,194,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNewpath" HorizontalAlignment="Left" Height="53" Margin="35,227,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="310"/>
+        <Button x:Name="btnBrowse2" Content="Browse" HorizontalAlignment="Left" Height="25" Margin="265,284,0,0" VerticalAlignment="Top" Width="80" Click="btnBrowse2_Click"/>
+        <Button x:Name="btnExec" Content="Convert" HorizontalAlignment="Left" Height="34" Margin="35,320,0,0" VerticalAlignment="Top" Width="150" Click="btnExec_Click"/>
+        <Label x:Name="label2" Content="Convert to MS Excel file to CSV with UTF-8" HorizontalAlignment="Left" Margin="33,22,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="chRegion" HorizontalAlignment="Left" Margin="35,156,0,0" VerticalAlignment="Top" Width="190" Height="26"/>
+        <Label x:Name="txtCopyright" Content="https://github.com/gnh1201/excel2csvutf8" HorizontalAlignment="Left" Margin="33,380,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
